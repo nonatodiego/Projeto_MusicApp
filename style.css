@@ -1,3 +1,7 @@
+body{
+background-color: #000;
+}
+
 .music-container{
 	width: 350px;
 	display: block;
